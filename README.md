@@ -1,6 +1,6 @@
 # login
 本项目目的是打造一个针对管理系统、应用程序等需求下的用户登录/注册app，而不是门户网站、免费博客等无需登录即可访问的网站。
-基于Django2.2、Bootstrap4、Python3.7.3、Pycharm
+基于Django2.2、Bootstrap4、Python3.7.3、Pycharm2019.1
 
 所用模块：
 django
